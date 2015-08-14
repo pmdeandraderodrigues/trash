@@ -1,0 +1,6 @@
+total 32
+drwxr-xr-x   5 prodrigues  staff    170 Aug 14 09:55 .
+drwxr-xr-x   5 prodrigues  staff    170 Aug 14 09:51 ..
+drwxr-xr-x  12 prodrigues  staff    408 Aug 14 09:53 .git
+-rw-r--r--   1 prodrigues  staff      0 Aug 14 09:55 ls.txt
+-rw-r--r--   1 prodrigues  staff  13052 Aug 14 09:52 top.txt
